@@ -16,7 +16,16 @@
           "index",
           "quickstart"
         ]
-      }
+      },
+      {
+        "group": "V1",
+        "icon": "sitemap",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      "untitled-page"
     ],
     "global": {
       "anchors": [
