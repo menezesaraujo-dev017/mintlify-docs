@@ -42,8 +42,16 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://syncapps.com.br/plans",
+        "label": "Planos"
+      },
+      {
+        "href": "https://syncapps.com.br/terms",
+        "label": "Termos"
+      },
+      {
+        "href": "https://syncapps.com.br/login",
+        "label": "Login"
       }
     ],
     "primary": {
@@ -81,5 +89,8 @@
       "light": "/images/1000641391.jpg",
       "dark": "/images/1000641391.jpg"
     }
+  },
+  "fonts": {
+    "family": "Source Sans Pro"
   }
 }
