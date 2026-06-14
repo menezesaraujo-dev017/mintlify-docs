@@ -74,9 +74,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/menezesaraujo-dev017",
+      "website": "https://syncapps.com.br"
     }
   },
   "description": "Aprenda a configurar, gerenciar e utilizar todos os recursos do nosso bot de forma simples e rápida.",
@@ -84,13 +83,21 @@
     "library": "lucide"
   },
   "background": {
-    "decoration": "gradient",
-    "image": {
-      "light": "/images/1000641391.jpg",
-      "dark": "/images/1000641391.jpg"
-    }
+    "decoration": "gradient"
   },
   "fonts": {
     "family": "Source Sans Pro"
+  },
+  "banner": {
+    "content": "Teste",
+    "dismissible": true,
+    "type": "warning",
+    "color": {
+      "light": "#FFD93D",
+      "dark": "#E0A800"
+    }
+  },
+  "thumbnails": {
+    "background": "/images/1000641421.png"
   }
 }
