@@ -30,7 +30,9 @@
       {
         "group": "V1",
         "icon": "sitemap",
-        "pages": []
+        "pages": [
+          "introducao"
+        ]
       }
     ]
   },
