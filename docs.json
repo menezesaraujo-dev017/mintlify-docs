@@ -26,12 +26,18 @@
         }
       ]
     },
-    "groups": [
+    "tabs": [
       {
-        "group": "V1",
-        "icon": "sitemap",
-        "pages": [
-          "introducao"
+        "tab": "Home",
+        "icon": "house",
+        "groups": [
+          {
+            "group": "V1",
+            "icon": "sitemap",
+            "pages": [
+              "introducao"
+            ]
+          }
         ]
       }
     ]
