@@ -9,25 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ],
-        "hidden": true
-      },
-      {
-        "group": "V1",
-        "icon": "sitemap",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      "untitled-page"
-    ],
     "global": {
       "anchors": [
         {
@@ -41,7 +22,14 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "V1",
+        "icon": "sitemap",
+        "pages": []
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
