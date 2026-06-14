@@ -62,13 +62,9 @@
   },
   "contextual": {
     "options": [
-      "copy",
-      "view",
       "chatgpt",
       "claude",
       "perplexity",
-      "mcp",
-      "cursor",
       "vscode"
     ]
   },
@@ -89,7 +85,7 @@
     "family": "Source Sans Pro"
   },
   "banner": {
-    "content": "Teste",
+    "content": "Este site está em manutenção, em breve disponível.",
     "dismissible": true,
     "type": "warning",
     "color": {
@@ -99,5 +95,8 @@
   },
   "thumbnails": {
     "background": "/images/1000641421.png"
+  },
+  "search": {
+    "prompt": "Pesquise..."
   }
 }
