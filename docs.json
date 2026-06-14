@@ -76,6 +76,10 @@
     "library": "lucide"
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "gradient",
+    "image": {
+      "light": "/images/1000641391.jpg",
+      "dark": "/images/1000641391.jpg"
+    }
   }
 }
