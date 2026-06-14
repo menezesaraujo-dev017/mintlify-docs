@@ -15,7 +15,8 @@
         "pages": [
           "index",
           "quickstart"
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "V1",
